@@ -1,0 +1,18 @@
+h1{
+  Color:black;
+  font-size:50px;
+  padding:0px 200px;}
+p{
+  color:black;
+  font-size:20px;}
+body{
+  background:lightblue;
+}
+h2{
+  font-size:30px;}
+h3{
+  font-size:30px;}
+h4{
+ border-top:solid 1px;
+ border-bottom:solid 1px;
+}
