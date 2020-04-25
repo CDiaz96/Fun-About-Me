@@ -24,7 +24,7 @@ border-bottom:solid 1px;
 text-align:center;
 }
 #spin:after {
-    content:"";
+   content:"";
   animation: spin 5s linear infinite;
   color:blue;
   font-size:60px;
