@@ -32,10 +32,10 @@ text-align:center;
 }
 @keyframes spin {
   0% { content:"Smart"; }
-  20% { content:"Beautiful"; }
-  40% { content:"Driven"; }
-  60% { content:"Fierce"; }
-  80% { content:"Joyful"; } 
-  100%{content:"Loving";}
+  20% { content:"Driven"; }
+  40% { content:"Fierce"; }
+  60% { content:"Joyful"; }
+  80% { content:"Loving"; } 
+  100%{content:"Beautiful";}
 }
 
