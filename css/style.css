@@ -1,8 +1,4 @@
 h1{ 
-  text-align:center;
-Color:black;
-font-size:50px;
-padding:0px 200px;
 text-align:center;
 }
 p{
@@ -26,5 +22,17 @@ h4{
 border-top:solid 1px;
 border-bottom:solid 1px;
 text-align:center;
+}
+#spin:after {
+  content:"";
+  animation: spin 5s linear infinite;
+}
+@keyframes spin {
+  0% { content:"Smart"; }
+  20% { content:"Beautiful"; }
+  40% { content:"Driven"; }
+  60% { content:"Fierce"; }
+  80% { content:"Joyful"; } 
+  100%{content:"Loving";}
 }
 
