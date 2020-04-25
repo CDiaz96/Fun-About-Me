@@ -1,42 +1,30 @@
 h1{ 
   text-align:center;
+Color:black;
+font-size:50px;
+padding:0px 200px;
+text-align:center;
 }
 p{
-  color:black;
-  font-size:30px;
-  text-align:center;
+color:black;
+font-size:20px;
+text-align:center;
 }
 body{
-  background:lightblue;
-  text-align:center;
+background:lightblue;
+text-align:center;
 }
 h2{
-  font-size:30px;
-  text-align:center;
+font-size:30px;
+text-align:center;
 }
 h3{
-  font-size:30px;
+font-size:30px;
 text-align:center;
 }
 h4{
- border-top:solid 1px;
- border-bottom:solid 1px;
- text-align:center;
-}
-#spin {
-  color:blue;
-  font-size:70px
-}
-#spin:after {
-  content:"";
-  animation: spin 5s linear infinite;
-}
-@keyframes spin {
-  0% { content:"Smart"; }
-  20% { content:"Beautiful"; }
-  40% { content:"Driven"; }
-  60% { content:"Fierce"; }
-  80% { content:"Joyful"; } 
-  100%{content:"Loving";}
+border-top:solid 1px;
+border-bottom:solid 1px;
+text-align:center;
 }
 
