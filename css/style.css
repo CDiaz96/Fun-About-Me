@@ -1,5 +1,7 @@
 h1{ 
 text-align:center;
+color:blue;
+font-size:100px;
 }
 p{
 color:black;
@@ -7,35 +9,49 @@ font-size:20px;
 text-align:center;
 }
 body{
-background:lightblue;
+background:orange;
 text-align:center;
 }
 h2{
 font-size:30px;
 text-align:center;
 }
-h3{
-font-size:30px;
-text-align:center;
+
 }
 h4{
 border-top:solid 1px;
 border-bottom:solid 1px;
 text-align:center;
+ font-size:20px;
 }
 #spin:after {
-   content:"";
+  content:"";
   animation: spin 5s linear infinite;
-  color:blue;
+  color:orange;
   font-size:60px;
   font-style:italic;
 }
 @keyframes spin {
-  0% { content:"Smart"; }
-  20% { content:"Driven"; }
-  40% { content:"Fierce"; }
-  60% { content:"Joyful"; }
-  80% { content:"Loving"; } 
-  100%{content:"Beautiful";}
+  0% { content:"Smart"; }
+  20% { content:"Beautiful"; }
+  40% { content:"Driven"; }
+  60% { content:"Fierce"; }
+  80% { content:"Joyful"; } 
+  100%{content:"Loving";}
 }
-
+div{
+  background:white;
+  border: 4px dashed #FFCC5C;
+  width:70%; 
+  text-align:center;
+  margin-left:15%;
+  margin-top:5%;
+}
+img{
+  width: 100%;
+  height: auto;
+}
+ol{
+  text-align:left;
+  font-size:20px;
+}
