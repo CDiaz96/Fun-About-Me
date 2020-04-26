@@ -20,7 +20,7 @@ h4{
 border-top:solid 1px;
 border-bottom:solid 1px;
 text-align:center;
- font-size:20px;
+font-size:20px;
 }
 #spin:after {
   content:"";
